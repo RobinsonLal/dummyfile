@@ -1,0 +1,23 @@
+.container{
+    width: 20%;
+    height: auto;
+    padding: 20px 20px;
+    box-shadow: 2px 2px 2px 2px rgb(111, 111, 127);
+    border: 2px solid rgb(14, 13, 13);
+    margin-inline: auto;
+    margin-top: 80px;
+    text-align: center;
+}
+
+button{
+    padding: 5px 30px;
+    margin-top: 10px;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    background-color: rgb(163, 163, 163);
+}
+
+button:hover{
+    background-color: black;
+}
